@@ -1,4 +1,4 @@
-Frontend exercise
+#Frontend exercise
 Exercise: Building a Task Management API
 Scenario: You are tasked with creating a mobile-first, responsive one-page website that features an image gallery. The images for the gallery will be fetched from a public API, and the website should have a navigation bar with at least three menu points.
 Requirements:
