@@ -4,7 +4,7 @@
 
 ### Scenario: You are tasked with creating a mobile-first, responsive one-page website that features an image gallery. The images for the gallery will be fetched from a public API, and the website should have a navigation bar with at least three menu points.
 
-Requirements:
+**Requirements:**
 1. Set up a new HTML5 project with a responsive design approach (mobile-first) using appropriate meta tags.
 2. Implement a navigation bar with a hamburger menu for mobile devices and a full menu for larger screens. Include at least three menu points (e.g., Home, Gallery, Contact).
 3. Use CSS (preferably SCSS) for styling, focusing on creating a clean and visually appealing design.
